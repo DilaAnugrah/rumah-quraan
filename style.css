@@ -1,0 +1,66 @@
+/* Beranda */
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar {
+    margin: auto;
+    background-color: #527f3a;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.headline img {
+    padding-top: 5%;
+    width: 1482px;
+    margin: 18px;
+    border-radius: 10px;
+}
+
+.introduction {
+    padding-top: 5%;
+}
+
+.kegiatan {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+footer {
+    background-color: #527f3a;
+    padding-bottom: 0%;
+    color: white;
+}
+/* Akhir Beranda */
+
+/* Kegiatan */
+.kegiatan{
+    padding-top: 5%;
+    text-align: center;
+}
+/* Akhir Kegiatan */
+
+/* login */
+.login {
+    padding-top: 15%;
+}
+
+.login img {
+    width: max-content;
+}
+/* Akhir Login */
+
+/* Data Siswa */
+.siswa {
+    padding-top: 5%;
+    text-align: center;
+}
+/* Akhir Data Siswa */
+
+/* Informasi SPP */
+.informasi {
+    padding-top: 5%;
+    text-align: center;
+}
+/* akhir Informasi SPP */
